@@ -1,0 +1,15 @@
+1704471805402	geckodriver	INFO	Listening on 127.0.0.1:45561
+1704471805914	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiled2yU75"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704471807745	Marionette	INFO	Marionette enabled
+1704471807925	Marionette	INFO	Listening on port 38997
+WebDriver BiDi listening on ws://127.0.0.1:44587
+Read port: 38997
+1704471808178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44587/devtools/browser/61c96305-d907-4026-8c86-3e251d076941
+1704471823439	Marionette	INFO	Stopped listening on port 38997
+JavaScript warning: https://fakestore.testelka.pl/wp-content/plugins/woocommerce-gateway-stripe/assets/js/jquery.mask.min.js?ver=7.8.1, line 1: Script terminated by timeout at:
+@https://fakestore.testelka.pl/wp-content/plugins/woocommerce-gateway-stripe/assets/js/jquery.mask.min.js?ver=7.8.1:1:7045
+

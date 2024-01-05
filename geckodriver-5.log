@@ -1,0 +1,27 @@
+1704471711910	geckodriver	INFO	Listening on 127.0.0.1:36659
+1704471712430	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDNODQi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704471713379	Marionette	INFO	Marionette enabled
+1704471713546	Marionette	INFO	Listening on port 38531
+Read port: 38531
+WebDriver BiDi listening on ws://127.0.0.1:47623
+1704471713732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47623/devtools/browser/ad0e18fc-1360-4d35-8dc0-fa62ee81521e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+1704471724685	Marionette	INFO	Stopped listening on port 38531
+JavaScript warning: https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js, line 23: Script terminated by timeout at:
+build_ranked_dict@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:23:506
+[5]<@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:23:646
+s@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:6:620
+s/<@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:6:671
+[4]<@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:20:74
+s@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:6:620
+e@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:6:792
+@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:6:809
+@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:6:316
+@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:6:322
+

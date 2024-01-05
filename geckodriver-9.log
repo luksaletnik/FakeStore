@@ -1,0 +1,14 @@
+1704471825194	geckodriver	INFO	Listening on 127.0.0.1:56297
+1704471825707	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43323" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemw9sMF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704471827113	Marionette	INFO	Marionette enabled
+1704471827255	Marionette	INFO	Listening on port 45135
+Read port: 45135
+WebDriver BiDi listening on ws://127.0.0.1:43323
+1704471827450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43323/devtools/browser/d958a7d2-a8e1-462a-bd96-607cee0869a7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+1704471838709	Marionette	INFO	Stopped listening on port 45135

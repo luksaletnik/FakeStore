@@ -1,0 +1,24 @@
+1704471772428	geckodriver	INFO	Listening on 127.0.0.1:37023
+1704471772935	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileypUG1z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704471774674	Marionette	INFO	Marionette enabled
+1704471774869	Marionette	INFO	Listening on port 39973
+Read port: 39973
+WebDriver BiDi listening on ws://127.0.0.1:54245
+1704471775049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54245/devtools/browser/c5558f3d-82d5-4084-bfb4-b01a7fd0bb1e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+1704471803696	Marionette	INFO	Stopped listening on port 39973
+JavaScript warning: https://js.stripe.com/v3/?ver=3.0, line 1: Script terminated by timeout at:
+7087/value/<@https://js.stripe.com/v3/?ver=3.0:1:511042
+
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704471804722	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: null, errorCode: 5, reason: error

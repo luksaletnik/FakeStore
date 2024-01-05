@@ -1,0 +1,33 @@
+1704471726195	geckodriver	INFO	Listening on 127.0.0.1:55311
+1704471726703	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "52235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezAvBBq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704471728427	Marionette	INFO	Marionette enabled
+1704471728578	Marionette	INFO	Listening on port 39381
+WebDriver BiDi listening on ws://127.0.0.1:52235
+Read port: 39381
+1704471728924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52235/devtools/browser/cb670582-e96e-4abb-a127-156fe1887bc8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704471758439	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+JavaScript warning: https://js.stripe.com/v3/fingerprinted/js/controller-cc848a9adec3d6a1f42497a003323d67.js, line 1: Script terminated by timeout at:
+value@https://js.stripe.com/v3/fingerprinted/js/controller-cc848a9adec3d6a1f42497a003323d67.js:1:298332
+93890/e/i/<@https://js.stripe.com/v3/fingerprinted/js/controller-cc848a9adec3d6a1f42497a003323d67.js:1:294810
+i@https://js.stripe.com/v3/fingerprinted/js/controller-cc848a9adec3d6a1f42497a003323d67.js:1:294787
+
+1704471770510	Marionette	INFO	Stopped listening on port 39381
+JavaScript warning: https://fakestore.testelka.pl/wp-content/plugins/woocommerce-gateway-stripe/assets/js/jquery.mask.min.js?ver=7.8.1, line 1: Script terminated by timeout at:
+@https://fakestore.testelka.pl/wp-content/plugins/woocommerce-gateway-stripe/assets/js/jquery.mask.min.js?ver=7.8.1:1:6998
+
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown

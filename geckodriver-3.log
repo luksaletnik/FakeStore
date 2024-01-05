@@ -1,0 +1,26 @@
+1704471680633	geckodriver	INFO	Listening on 127.0.0.1:40783
+1704471680640	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "35209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilez1VV7V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704471682371	Marionette	INFO	Marionette enabled
+1704471682583	Marionette	INFO	Listening on port 43247
+Read port: 43247
+WebDriver BiDi listening on ws://127.0.0.1:35209
+1704471682733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35209/devtools/browser/895fec60-0e9e-4aa2-9c22-c7c5485b5f55
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fakestore.testelka.pl."
+1704471694499	Marionette	INFO	Stopped listening on port 43247
+JavaScript warning: https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js, line 23: Script terminated by timeout at:
+build_ranked_dict@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:23:506
+[5]<@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:23:646
+s@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:6:620
+s/<@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:6:671
+[4]<@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:20:74
+s@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:6:620
+e@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:6:792
+@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:6:809
+@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:6:316
+@https://fakestore.testelka.pl/wp-includes/js/zxcvbn.min.js:6:322
+
